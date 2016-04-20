@@ -7,7 +7,7 @@
         "automatic",
         "collect",
         "address",
-        "group",
+        "group"
     ],
     "homepage": "https://github.com/teonsystems/roundcube-plugin-automatic-addressbook-ng",
     "license": "GPL-3.0+",
