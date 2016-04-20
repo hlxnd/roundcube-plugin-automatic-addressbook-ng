@@ -1,0 +1,37 @@
+{
+    "name": "teon/automatic_addressbook_ng",
+    "type": "roundcube-plugin",
+    "description": "Automatic addressbook NG plugin collects email addresses from sent email, and stores them in configured addressbook, and optionally assigns a group to them. Loosely based on sblaisot/automatic_addressbook.",
+    "keywords": [
+        "addressbook",
+        "automatic",
+        "collect",
+        "address"
+    ],
+    "homepage": "https://github.com/teonsystems/roundcube-plugin-automatic-addressbook-ng",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Bostjan Skufca",
+            "email": "bostjan@toen.si",
+            "role": "Lead"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "require":
+    {
+        "php": ">=5.3.0",
+        "roundcube/plugin-installer": ">=0.1.7"
+    },
+    "extra":
+    {
+        "roundcube": {
+            "min-version": "1.1.4"
+        }
+    }
+}
