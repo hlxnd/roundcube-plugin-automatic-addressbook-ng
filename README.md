@@ -1,7 +1,7 @@
 # Roundcube plugin: Automatic addressbook NG
 
-Automatic addressbook NG plugin collects email addresses from sent email, and stores them in configured addressbook,
-and optionally assigns a group to them.
+Automatic addressbook NG is a Roundcube Webmail plugin that collects email addresses from your sent email messages,
+stores them in configured addressbook and optionally assigns them to a preconfigured group.
 
 (Loosely based on sblaisot/automatic_addressbook.)
 
